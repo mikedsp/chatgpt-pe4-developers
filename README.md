@@ -5,7 +5,7 @@ The course can be found here: https://www.deeplearning.ai/short-courses/chatgpt-
 
 When I went through the course, rather than executing the course examples in the Jupyter Notebook instance provided in the course, I executed the examples in Jupyter Notebook running on my own PC. 
 
-To get the course examples to run on my PC, I had update the version of Anaconda that was on my machine to the latest version (3.10), install 3 additional Python libraries, and set ip an OPENAI key environment variable. 
+To get the course examples to run on my PC, I had update the version of Anaconda that was on my machine to the latest version (3.10), install 3 additional Python libraries, and set up an OPENAI key environment variable. 
 
 Upon completing the course I created a presentation to provide the knowledge a non-developer would need to take and understand the course. 
 
