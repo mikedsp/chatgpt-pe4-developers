@@ -10,7 +10,7 @@ To get the course examples to run on my PC, I had update the version of Anaconda
 Upon completing the course I created a presentation to provide the knowledge a non-developer would need to take and understand the course. 
 
 This repository contains 2 types of files:
-1. The Jupyter Notebooks I created while taking the course. These notebooks are very similar to the Notebooks used in the course, but have a few small from my experiments.
+1. The Jupyter Notebooks I created while taking the course. These notebooks are very similar to the Notebooks used in the course, but have a few small modifications from my experiments with ChatGPT. One of the modifications was to add a 20 second delay to some of the examples so that I wouldn't hit the limit of 3 prompts per minute for the free version of ChatGPT.
 2. A presentation and supporting files for the presentation.
 
 Jupyter Notebook Files: Each file corresponds to a chapter from the course
