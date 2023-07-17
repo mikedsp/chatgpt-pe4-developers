@@ -23,8 +23,8 @@ Jupyter Notebook Files: Each file corresponds to a chapter from the course
 - 7 Chatbot.ipynb
 
 Presentation and supporting files
-- Preparing for the Course, ChatGPT Prompt Engineering for Developers.pdf
-- Key Links.txt - THis file contains URLs for OpenAI, Anaconda, and a few other sources
+- Preparing for the Course, ChatGPT Prompt Engineering for Developers.pdf - this is the presentation. It tells you how to sign up for ChatGPT, the course, how to use Jupyter Notebook and how to install Anaconda, 3 Python libraries, and how to install the OPEN AI key
+- Key Links.txt - This file contains URLs for OpenAI, Anaconda, and a few other sources
 - Prompts.txt - This file contains some sample prompts to enter into the ChatGPT web interface
 - Python Samples.txt - This file contains a few simple Python code samples to use when building MyNewNotebook
 to test that you're PC is setup for the course
