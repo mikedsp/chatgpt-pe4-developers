@@ -1,0 +1,50 @@
+This file contains commands you'll run in an Anaconda window to install libraries
+and start up jupyter notebook
+
+
+
+Setting up an OpenAI project folder and starting a Jupyter Notebook
+-----------------------------------------------------------------
+dir
+mkdir myprojects
+cd myprojects
+mkdir openai
+cd  openai
+jupyter notebook       
+
+
+Checking your Python Version
+-----------------------------
+python –-version        // Verify that you're running Python 3.10
+
+Opening a Jupyter notebook
+-------------------------------------------
+jupyter notebook        // open a Jupyter Notebook
+
+
+Installing the python-dotenv library
+-----------------------------------------
+python -m pip install python-dotenv  // install the python-dotenv library
+
+
+Installing the openai library
+----------------------------------
+pip install openai                   // install the openai library
+
+Installing the Redlines library
+----------------------------------
+pip install redlines                 // install the redlines library
+
+
+Installing the openai key in your PC's system environment variables
+--------------------------------------------------------------------
+Variable name: OPENAI_API_KEY
+Variable value: <copy-and-paste-your-api-key-from-notepad.
+
+
+Installing Python 3.10 in Anaconda - only necessary if you're running an old version of Anaconda
+------------------------------------
+python --version                             // Check the Python version that is running
+conda create -n py310 python=3.10 anaconda   // Installing Python 3.10 in Anaconda
+conda activate py310                         // Activating Python 3.10 
+python –-version                             // Verify that you're running Python 3.10
