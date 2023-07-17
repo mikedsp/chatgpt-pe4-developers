@@ -1,0 +1,29 @@
+Key Links
+
+
+
+ChatGPT Web Site
+------------------------
+https://chat.openai.com/
+
+DeepLearnin.AI's course
+------------------------------
+https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/
+
+
+Download and Install Anaconda
+-----------------------------
+https://docs.anaconda.com/free/anaconda/install/windows/
+
+Instructions for installing Latest Version of Python in Anaconda
+-----------------------------------------------------------------------
+https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-python.html 
+
+
+How to Generate an OpenAI key and install it on your PC
+--------------------------------------------------------------
+https://www.howtogeek.com/885918/how-to-get-an-openai-api-key/ 
+
+OpenAI's Platform website
+--------------------------
+platform.openai.com

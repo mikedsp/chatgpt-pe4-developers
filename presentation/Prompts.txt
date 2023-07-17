@@ -1,0 +1,15 @@
+SLIDE 8 - ChatGPT Web Interface
+What's a good way for a non-technical user to learn ChatGPT?
+
+I am a non-technical person and wish to learn ChatGPT. What's the first step i should take? 
+
+I am a non-technical person and wish to learn ChatGPT. In 50 words, what's the first step i should take? 
+
+Translate the following English text to Spanish "Hi, I would like to order a blender"
+
+How do I say "My name is Mike Boucher. It's nice to meet you" in French?
+
+How do I say "My name is Mike Boucher. It's nice to meet you" in French and pig latin?
+
+How do I say "My name is Mike Boucher. It's nice to meet you" in French, pig latin, and real latin?
+

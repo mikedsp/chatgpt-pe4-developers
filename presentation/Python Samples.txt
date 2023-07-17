@@ -1,0 +1,42 @@
+This file contains a few simple Python code samples to use when building MyNewNotebook
+to test that you're PC is setup for the course
+
+Cell 1
+-------
+from platform import python_version
+print (python_version())
+
+
+Cell 2 (requires the openai key to have been set up on your PC)
+--------
+import openai
+import os
+
+from dotenv import load_dotenv, find_dotenv
+_ = load_dotenv(find_dotenv()) # read local .env file
+
+openai.api_key  = os.getenv('OPENAI_API_KEY')
+
+
+
+Cell 3
+---------------
+def get_completion(prompt, model="gpt-3.5-turbo"):
+    messages = [{"role": "user", "content": prompt}]
+    response = openai.ChatCompletion.create(
+        model=model,
+        messages=messages,
+        temperature=0, # this is the degree of randomness of the model's output
+    )
+    return response.choices[0].message["content"]
+
+Cell 4
+---------------------
+text = f"""
+Got this for my daughter for her birthday cuz she keeps taking \
+mine from my room.  
+"""
+prompt = f"proofread and correct this review: ```{text}```"
+response = get_completion(prompt)
+print(response)
+
