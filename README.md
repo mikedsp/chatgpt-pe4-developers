@@ -1,5 +1,5 @@
 # chatgpt-pe4-developers
-Artifacts from the online course, ChatGPT Prompt Engineering for Developers by OpenAI
+Artifacts from the online course, ChatGPT Prompt Engineering for Developers, by DeepLearning.ai
 
 The course can be found here: https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/
 
